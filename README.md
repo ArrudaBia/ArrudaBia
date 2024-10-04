@@ -3,7 +3,7 @@
 # 💫 About Me:
 - 🔭 I'm currently studying a degree in Information Systems.
 - 👯 I’m looking to collaborate on a project that can add to my knowledge.
-- 🌱 I’m currently learning Javascript, MySQL, Node.JS.
+- 🌱 I’m currently learning Javascript, MySQL, Node.JS, Kotlin and Python.
 
 
 # 📊 GitHub Stats:
