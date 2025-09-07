@@ -7,9 +7,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bmarruda&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=bmarruda&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bmarruda&theme=onedark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArrudaBia&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ArrudaBia&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArrudaBia&theme=onedark&hide_border=false)
+
 
 ---
 
